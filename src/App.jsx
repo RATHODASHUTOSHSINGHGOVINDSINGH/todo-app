@@ -14,12 +14,11 @@ function App() {
 ">
       <BrowserRouter>
       <Navbar/>
-      {/* Define your routes here */}
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/about" element={<About/>} />
         <Route path="/contact" element={<Contact/>} />
-        {/* Add more routes as needed */}
+        
       </Routes>
       </BrowserRouter>
       <Todo/>

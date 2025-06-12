@@ -18,7 +18,7 @@ const Todo = () => {
       setTodos([...todos, { todo, id: uuidv4(), isCompleted: false }]);
       setTodo("");
     } else {
-      alert("Please enter a todo");
+      alert("Please Enter a Todo");
     }
   };
 
