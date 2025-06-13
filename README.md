@@ -10,6 +10,41 @@ Check it out 👉 https://todo-app-ashutosh-rathod-projects.vercel.app/
 
 📂 Code: https://github.com/RATHODASHUTOSHSINGHGOVINDSINGH/todo-app
 
+💡 Real-world problem:
+
+Most users lose their tasks after a refresh or can’t easily manage them.
+This causes poor UX and makes simple apps frustrating to use.
+
+✅ My solution:
+
+Add ✍️ / Edit ✏️ / Delete ❌ tasks
+
+Mark tasks done with checkboxes ✔️
+
+Save data in LocalStorage so nothing gets lost
+
+Clean UI with Tailwind CSS
+
+✨ Features:
+
+✅ Add ✍️ / Edit ✏️ / Delete ❌ tasks
+
+✅ Checkbox to mark completion ✔️
+
+✅ Data saved in LocalStorage (so no lost tasks!)
+
+✅ Clean UI with Tailwind CSS
+
+✅ Deployed on Vercel
+
+This project helped me improve my understanding of:
+
+🔄 State & effect hooks (useState, useEffect)
+
+🧠 Component logic & clean code
+
+🧩 Real-world UI/UX problem-solving
+
 ## Installation
 
 Follow these steps to set up the project locally.
@@ -136,38 +171,3 @@ To start the development server:
 ```sh
 npm run dev
 ```
-
-💡 Real-world problem:
-
-Most users lose their tasks after a refresh or can’t easily manage them.
-This causes poor UX and makes simple apps frustrating to use.
-
-✅ My solution:
-
-Add ✍️ / Edit ✏️ / Delete ❌ tasks
-
-Mark tasks done with checkboxes ✔️
-
-Save data in LocalStorage so nothing gets lost
-
-Clean UI with Tailwind CSS
-
-✨ Features:
-
-✅ Add ✍️ / Edit ✏️ / Delete ❌ tasks
-
-✅ Checkbox to mark completion ✔️
-
-✅ Data saved in LocalStorage (so no lost tasks!)
-
-✅ Clean UI with Tailwind CSS
-
-✅ Deployed on Vercel
-
-This project helped me improve my understanding of:
-
-🔄 State & effect hooks (useState, useEffect)
-
-🧠 Component logic & clean code
-
-🧩 Real-world UI/UX problem-solving
