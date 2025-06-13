@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 Error and Fix.md
+Readme.md
+
 
 # Editor directories and files
 .vscode/*
